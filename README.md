@@ -37,3 +37,4 @@ This is the project based on the idea of `Relaxing Breath-in, Out App`. it is co
 
 
 # Deployed Link
+[Get Relax](https://relaxing-webapp.netlify.app/)
